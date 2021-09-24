@@ -13,4 +13,3 @@ module.exports = function pwd(cmd) {
 //     process.stdout.write(' \nprompt >');
 //   }
 // });
-

@@ -1,0 +1,22 @@
+{
+  "name": "mymodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmskang/PairExerciseNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmskang/PairExerciseNode/issues"
+  },
+  "homepage": "https://github.com/jmskang/PairExerciseNode#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
